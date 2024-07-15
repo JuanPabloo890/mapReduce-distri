@@ -1,0 +1,3 @@
+"lapiz"	1
+"rojo"	1
+"papel"	1

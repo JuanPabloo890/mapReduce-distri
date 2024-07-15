@@ -1,0 +1,4 @@
+"cajon"	1
+"mesa"	1
+"casa"	1
+"rojo"	1

@@ -1,0 +1,7 @@
+"cajon"	1
+"papel"	1
+"lapiz"	1
+"casa"	2
+"rojo"	3
+"mesa"	1
+"pasta"	1
